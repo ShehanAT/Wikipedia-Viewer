@@ -1,0 +1,28 @@
+body{
+    
+    font-family:'Lobster';
+    font-size: 14px;
+    
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carte_des_barrières_de_séparation.svg/1280px-Carte_des_barrières_de_séparation.svg.png");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
+img{
+    background-color:grey;
+    border-radius:25px;
+}
+.text-center{
+    text-align:center;
+    color:black;
+}
+
+heading{
+    background-color:black;
+    border-radius:25px;
+    display:inline-block;
+
+}
+.button{
+
+}
